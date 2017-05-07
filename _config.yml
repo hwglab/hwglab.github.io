@@ -24,9 +24,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 
 theme: minima
 
+=======
+theme: jekyll-theme-cayman
+>>>>>>> origin/master
 gems:
   - jekyll-feed
 
