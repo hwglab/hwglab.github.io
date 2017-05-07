@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: IHG Support Site
+title: IHG Support Site by aTalent
 email: support@atalent.com
 description: > # this means to ignore newlines until "baseurl:"
-  please send us your email contact, so that we can properly reply your questions
+ supported by aTalent
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -24,13 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 
 theme: minima
 
-=======
-theme: jekyll-theme-cayman
->>>>>>> origin/master
 gems:
   - jekyll-feed
 
