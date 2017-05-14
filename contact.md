@@ -3,5 +3,12 @@ layout: page
 title: contact
 permalink: /contact/
 ---
+For any further questions you're not able find answers here, you can either
 
-For any further questions you're not able find answers here, please <a href="mailto:support@atalent.com?subject=Inquiry from Mobile Site">email us</a>
+just <a href="mailto:support@atalent.com?subject=Inquiry from Mobile Site">email us</a>
+
+or
+
+text us *
+
+`* via wechat (beta version)`

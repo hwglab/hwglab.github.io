@@ -3,23 +3,10 @@ layout: page
 title: about
 permalink: /about/
 ---
+This guide explains the `how-to` in details for using the Greater China **Winning Talent** system as a user of:
 
-This is the Greater China Winning Talent System How-to Guide.
+1. Hotel GM - ([English](/docs/en_gm.pdf), [中文](/docs/cn_gm.pdf))
 
-This guide will explain the `how to` in details for:
+2. Hotel HR - ([English](/docs/en_hr.pdf), [中文](/docs/cn_hr.pdf)) 
 
-1. Hotel GM
-
-2. Hotel HR
-
-3. Hotel Employees
-
-4. AGM/RGM/HOO/DOP
-
-5. VPO
-
-6. Function BP
-
-7. HRBP
-
-in both English and in Chinese!
+3. Hotel Employees - ([English](/docs/en_ess.pdf), [中文](/docs/cn_ess.pdf))
